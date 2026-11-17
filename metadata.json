@@ -1,0 +1,6 @@
+{
+  "name": "AutoRegistro Taller",
+  "description": "Aplicación web para gestionar servicios de un taller automotriz con almacenamiento, historial, consulta y edición directa en Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
